@@ -1,0 +1,74 @@
+[
+
+  {
+    "name": "Android: Instarem payment app",
+    "desc": "Fully fledged android payment app based on different design patterns. Built using React native, XML, SQLite, Firebase, Redux, Full security, root detection, ssl pinning, etc.",
+    "image": "instarem-android",
+    "category": "react-native",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=com.instarem.mobileapp&hl=en_IN",
+      "code": "#"
+    }
+  },
+  {
+    "name": "iOS: Instarem payment app",
+    "desc": "Fully fledged iOS payment app based on different design patterns. Built using React native, Firebase, Redux, Full security, root detection, ssl pinning, etc.",
+    "image": "instarem-ios",
+    "category": "react-native",
+    "links": {
+      "view": "https://apps.apple.com/in/app/instarem-send-spend-abroad/id1190075959",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Instrem web app",
+    "desc": "Fully fledged web app based on different design patterns. Built using ReactJS, Redux, test cases automation, etc.",
+    "image": "instarem-web",
+    "category": "mern",
+    "links": {
+      "view": "https://www.instarem.com/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio-website",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://PragyaSingh.in"
+    }
+  },
+  {
+    "name": "Android: UEFA Fantasy Football",
+    "desc": "Android app for UEFA Fantasy Football. It provides all the features to manage your fantasy team.",
+    "image": "uefa-android",
+    "category": "react-native",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=com.uefa.eurofantasy&hl=en_IN",
+      "code": "#"
+    }
+  },
+  {
+    "name": "iOS: UEFA Fantasy Football",
+    "desc": "iOS app for UEFA Fantasy Football. It provides all the features to manage your fantasy team.",
+    "category": "react-native",
+    "image": "uefa-ios",
+    "links": {
+      "view": "https://apps.apple.com/in/app/uefa-gaming-fantasy-football/id1107602457",
+      "code": "#"
+    }
+  },
+  {
+    "name": "WEB: Fantasy Football",
+    "desc": "ReactJS web app for UEFA Fantasy Football. It provides all the features to manage your fantasy team.",
+    "image": "uefa-web",
+    "category": "mern",
+    "links": {
+      "view": "https://www.uefa.com/uefachampionsleague/",
+      "code": "#"
+    }
+  }
+  
+]
